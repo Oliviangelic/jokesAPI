@@ -1,0 +1,30 @@
+colours {
+    color: #6baa97;
+    color: #5e9081;
+    color: #040001;
+    color: #f0f8f8;
+    color: #f1f1f1;
+
+    color: #F88AF7;
+    color: #36FDA6;
+    color: #3574ab;
+    color: #373438;
+    color: #1b1b1e;
+}
+
+
+li {
+    list-style: none;
+    color: #36FDA6;
+    margin-bottom: 2%;
+    border-bottom: solid 1 #36FDA6;
+    font-family: "sofia-pro", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-size: large;
+}
+
+.smiley {
+    font-size: 60px;
+}

@@ -12,7 +12,8 @@ import { JokesComponent } from './jokes/jokes.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,4 +1,4 @@
-colours {
+/* colours {
     color: #6baa97;
     color: #5e9081;
     color: #040001;
@@ -27,4 +27,15 @@ li {
 
 .smiley {
     font-size: 60px;
-}
+} */
+
+.jokes-container ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .jokes-container li {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
